@@ -1,0 +1,15 @@
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\obj\Debug\netcoreapp3.1\ExamenMauricio.vbprojAssemblyReference.cache
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\obj\Debug\netcoreapp3.1\ExamenMauricio.vbproj.GenerateResource.cache
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\obj\Debug\netcoreapp3.1\ExamenMauricio.AssemblyInfoInputs.cache
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\obj\Debug\netcoreapp3.1\ExamenMauricio.AssemblyInfo.vb
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\obj\Debug\netcoreapp3.1\ExamenMauricio.vbproj.CoreCompileInputs.cache
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\bin\Debug\netcoreapp3.1\ExamenMauricio.exe
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\bin\Debug\netcoreapp3.1\ExamenMauricio.deps.json
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\bin\Debug\netcoreapp3.1\ExamenMauricio.runtimeconfig.json
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\bin\Debug\netcoreapp3.1\ExamenMauricio.runtimeconfig.dev.json
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\bin\Debug\netcoreapp3.1\ExamenMauricio.dll
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\bin\Debug\netcoreapp3.1\ExamenMauricio.pdb
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\obj\Debug\netcoreapp3.1\ExamenMauricio.dll
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\obj\Debug\netcoreapp3.1\ExamenMauricio.pdb
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\obj\Debug\netcoreapp3.1\ExamenMauricio.genruntimeconfig.cache
+C:\Users\Edwin\source\repos\ExamenMauricio\ExamenMauricio\obj\Debug\netcoreapp3.1\ExamenMauricio.frmCompra.resources

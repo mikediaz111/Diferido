@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\bin\Debug\netcoreapp3.1\Diferido.exe
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\bin\Debug\netcoreapp3.1\Diferido.deps.json
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\bin\Debug\netcoreapp3.1\Diferido.runtimeconfig.json
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\bin\Debug\netcoreapp3.1\Diferido.runtimeconfig.dev.json
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\bin\Debug\netcoreapp3.1\Diferido.dll
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\bin\Debug\netcoreapp3.1\Diferido.pdb
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\obj\Debug\netcoreapp3.1\ExamenMauricio.frmCompra.resources
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\obj\Debug\netcoreapp3.1\Diferido.vbproj.GenerateResource.cache
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\obj\Debug\netcoreapp3.1\Diferido.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\obj\Debug\netcoreapp3.1\Diferido.AssemblyInfo.vb
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\obj\Debug\netcoreapp3.1\Diferido.vbproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\obj\Debug\netcoreapp3.1\Diferido.dll
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\obj\Debug\netcoreapp3.1\Diferido.pdb
+C:\Users\MIGUEL\Downloads\Diferido\Diferido\obj\Debug\netcoreapp3.1\Diferido.genruntimeconfig.cache
